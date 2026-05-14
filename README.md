@@ -1,9 +1,7 @@
-I made this MATHZONE Website because im tired of everything being blocked at my school
+NOTICE:
 
-what you can use the Source code for?
+MATHZONE has been discontinued after the IT has told me to shut it down
 
-1. Make as many websites as you can so it wont get blocked
-   thats it 
+No more updates will come to MathZone
 
-   DO NOT ADVERTISE THIS AS YOURS
-   -T5_DW
+thanks -t5_dw
